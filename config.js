@@ -5,7 +5,7 @@
  */
 window.NAZUAF_CONFIG = {
   API_BASE: "https://saavn.sumit.co",
-  ENABLE_API_AUDIO_PLAYBACK: false,
+  ENABLE_API_AUDIO_PLAYBACK: true,
   DEFAULT_PAGE_SIZE: 12,
   PLAYLIST_PAGE_SIZE: 30,
   ARTIST_SONG_COUNT: 30,
